@@ -4,20 +4,22 @@ html{
 }
 
 
-body{
-	font-family: Arial, Helvetica, sans-serif;
-	height: 100%;
-	margin: 0;
-	background-color: #fffb00;
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    margin: 0;
+    background-color: #2d00ad;
 }
 
+
 /* Website Title */
-.container{
-	color: #f8e802;
+.container {
+    color: #e4ff02;
     padding: 20px;
-	display: block;
-	text-align: center;
+    display: block;
+    text-align: center;
 }
+
 
 .container-heading{
     margin: 0;
