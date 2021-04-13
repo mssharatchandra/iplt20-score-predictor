@@ -4,22 +4,20 @@ html{
 }
 
 
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    height: 100%;
-    margin: 0;
-    background-color: #2d00ad;
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	height: 100%;
+	margin: 0;
+	background-color: #ffffff;
 }
-
 
 /* Website Title */
-.container {
-    color: #e4ff02;
+.container{
+	color: #000000;
     padding: 20px;
-    display: block;
-    text-align: center;
+	display: block;
+	text-align: center;
 }
-
 
 .container-heading{
     margin: 0;
@@ -69,8 +67,6 @@ body {
 	width: auto;
 	height: 429px;
 	text-align: center;
-	color: #fffb00;
-	font-weight: bold;
 }
 
 .ipl-banner-right{
@@ -184,11 +180,11 @@ body {
 
 /* Predict Button */
 .myButton {
-	background-color:#fa0707;
+	background-color:#0c0c0c;
 	border-radius: 5px;
 	display:inline-block;
 	cursor:pointer;
-	color:#ffe600;
+	color:#ffffff;
 	font-family:Arial;
 	font-size:15px;
 	font-weight:bold;
