@@ -13,10 +13,11 @@ body{
 
 /* Website Title */
 .container{
-	color: #ffd000;
+    color: #ffe000;
     padding: 20px;
-	display: block;
-	text-align: center;
+    display: block;
+    text-align: center;
+}
 }
 
 .container-heading{
